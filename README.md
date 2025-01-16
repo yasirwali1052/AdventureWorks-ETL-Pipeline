@@ -1,6 +1,10 @@
 # AdventureWorks-ETL-Pipeline
 An end-to-end Azure Data Engineering project using AdventureWorks data. The pipeline extracts data via Azure Data Factory, stores it in Azure Data Lake, transforms it in Databricks, and loads it into Synapse Analytics for reporting. 
 
+# Architecture 
+![architecture](https://github.com/user-attachments/assets/07a30d8c-37b1-4ad5-aab2-56595d1da804)
+
+
 Here’s an expanded version of your project overview for the README file on GitHub:
 
 ## Pipeline Overview
@@ -40,6 +44,8 @@ Here’s an expanded version of your project overview for the README file on Git
 - **Databricks:** Facilitates scalable data transformations, including data cleansing, aggregation, and enrichment.
 - **Azure Synapse Analytics:** Provides a powerful platform for data modeling and querying at scale.
 - **Power BI:** Allows for creating interactive visualizations and dashboards to provide actionable insights.
+
+
 
 Feel free to explore the repository to learn more about implementing end-to-end data engineering solutions on Azure!
 
